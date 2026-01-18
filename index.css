@@ -1,0 +1,6 @@
+body { margin: 0; overflow: hidden; background-color: #333; }
+canvas { display: block; touch-action: none; }
+#loading-text { 
+            position: absolute; top: 50%; width: 100%; 
+            text-align: center; color: white; font-family: Arial; font-size: 24px;
+        }
